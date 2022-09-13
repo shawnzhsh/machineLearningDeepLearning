@@ -1,0 +1,6 @@
+https://github.com/wolfparticle/machineLearningDeepLearning
+
+
+李宏毅，一天搞懂深度学习，中文翻译
+https://github.com/yuneming/DeepLearningTutorial
+
